@@ -1,2 +1,2 @@
 # Digital-Design
-Some VHDL code developed to train
+Some VHDL code done to train.
